@@ -1,0 +1,28 @@
+_repo: A-Short-History-of-H.M.S.-Victory_40847
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40847-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wharton, W. J. L. (William James Lloyd)
+    alias: Wharton, William James Lloyd, Sir
+    birthdate: 1843
+    deathdate: 1905
+    gutenberg_agent_id: '40850'
+    url: http://www.gutenberg.org/2009/agents/40850
+description: ''
+gutenberg_issued: '2012-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40847'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Victory (Ship)'
+- !lcsh 'Great Britain -- History, Naval'
+- !lcc 'VA'
+title: A Short History of H.M.S. Victory
+url: http://www.gutenberg.org/ebooks/40847
